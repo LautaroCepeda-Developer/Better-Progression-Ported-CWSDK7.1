@@ -6,7 +6,7 @@ This version of the mod is ported to work with (newer) [gijsgroenewegen Cube Wor
 
 ## Installation & Setup
 - Download [the latest CubeModLoader.fip](https://github.com/gijsgroenewegen/Cube-World-Mod-Launcher/releases/tag/1.0.0-1_7_3) and place it in your game folder ("steamapps/common/Cube World", where cubeworld.exe is located).
-- Download [the latest Better Progression release](#) and place it in your mods folder ("steamapps/common/Cube World/Mods"). Create a new Mods folder if you do not already have one.
+- Download [the latest Better Progression release](https://github.com/LautaroCepeda-Developer/Better-Progression-Ported-CWSDK7.1/releases) and place it in your mods folder ("steamapps/common/Cube World/Mods"). Create a new Mods folder if you do not already have one.
 - Synchronize your center region with any friends you would like to play with.
 
 ## Building
